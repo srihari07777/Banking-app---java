@@ -16,20 +16,7 @@ Basic understanding of SQL and Java.
 
 IDE: Ensure that the IDE (e.g., VS Code) is properly set up for Java development.
 
-6. Project Structure
 
-BankingApp/
-│
-├── lib/
-│   └── mysql-connector-j-9.0.0.jar      // MySQL Connector JAR for JDBC
-│
-├── src/
-│   └── banking/
-│       ├── BankAccount.java             // Class for managing bank account operations
-│       ├── BankApp.java                 // Main class with the banking app menu
-│       └── DatabaseConnection.java      // Database connection helper class
-│
-└── README.md                            // Project documentation
 
 
 
